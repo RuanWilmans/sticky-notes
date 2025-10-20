@@ -1,0 +1,2 @@
+Paste the public GitHub URL to your Sticky Notes repository here (one line).
+Example: https://github.com/<your-username>/sticky-notes
